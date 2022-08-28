@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @Okabintaro
 - 👀 I’m interested in Minecraft Modding, VR/Game Development, Machine Learning and much more
-- 🌱 I’m currently learning [Nim]
+- 🌱 I’m currently learning [Zig]
 
 I hope you are having a good day.
 
 El psy congroo.
 
 [Nim]: https://nim-lang.org/
+[Zig]: https://ziglang.org/
 
 <!---
 Okabintaro/Okabintaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
